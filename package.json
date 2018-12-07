@@ -1,0 +1,23 @@
+{
+  "name": "deltasnare",
+  "version": "0.1.0",
+  "description": "Game state manager focused on multiplayer",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nsn0w/deltasnare.git"
+  },
+  "author": "Ben Snow <balintbence97@gmail.com>",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/b3nsn0w/deltasnare/issues"
+  },
+  "homepage": "https://github.com/b3nsn0w/deltasnare#readme",
+  "dependencies": {
+    "@deltasnare/simple-frontend": "^1.1.0",
+    "@deltasnare/timer": "^1.0.0"
+  }
+}
